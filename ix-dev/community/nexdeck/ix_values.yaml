@@ -1,7 +1,7 @@
 images:
   image:
     repository: ghcr.io/derkezorm/nexdeck
-    tag: "1.9.3@sha256:88eef09628859c8b129d33670668d2d6d67639a6e36cf897aa5cfbeb0e93803c"
+    tag: "1.10.0@sha256:70b880a6f9248ec209ae82e507251f11ac1bac3a74ae4364ee25d3097be3768f"
   container_utils_image:
     repository: ghcr.io/truenas/containers/container-utils
     tag: "1.1.2@sha256:6ddfdc314af9d18cfacb836ad266ef0ed91fecaa3686b20be72e464972860c08"

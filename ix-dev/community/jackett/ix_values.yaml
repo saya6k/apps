@@ -1,7 +1,7 @@
 images:
   image:
     repository: ghcr.io/home-operations/jackett
-    tag: "0.24.3085@sha256:d233c6a713fcf918b190822dd5d6e96141f00d71fa64a4e9ccab60c0fc3cd7d3"
+    tag: "0.25.20@sha256:6bedbf9f3c3447e6e5534f1a8e8f601f152ca852cfc0d512eee6499232c94b7b"
   container_utils_image:
     repository: ghcr.io/truenas/containers/container-utils
     tag: "1.1.2@sha256:6ddfdc314af9d18cfacb836ad266ef0ed91fecaa3686b20be72e464972860c08"
