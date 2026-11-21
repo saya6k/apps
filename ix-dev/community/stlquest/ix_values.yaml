@@ -1,7 +1,7 @@
 images:
   image:
     repository: ghcr.io/richardsolomou/stl.quest
-    tag: "v1.52.2@sha256:8fd498f4e519bb3c7e723d973be11eb53a32bb5a7e02e960c7a3a3df4592d79b"
+    tag: "v2.3.1@sha256:75a3aa4e19c1d19f2bd2586c134a97d3adc7675942c3572381d618effc44a263"
   container_utils_image:
     repository: ghcr.io/truenas/containers/container-utils
     tag: "1.1.2@sha256:6ddfdc314af9d18cfacb836ad266ef0ed91fecaa3686b20be72e464972860c08"
